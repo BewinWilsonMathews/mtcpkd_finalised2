@@ -212,7 +212,7 @@
 
 /* Style for the dropdown container */
 .dropdown {
-  position: static;
+  position: relative;
   display: inline-block;
 }
 
